@@ -1,0 +1,12 @@
+.header{
+	background-color: silver;
+	position: relative;
+	width: 100%;
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 1.25rem;
+	padding-top: 1.25rem;
+}

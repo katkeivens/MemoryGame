@@ -1,0 +1,36 @@
+.menu li {
+  display: inline-block;
+  text-align: center;
+}
+
+.itemCenter {
+  font-size: 3rem;
+}
+
+.menu {
+  background: darkcyan;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+li {
+  color: white;
+  padding: 15px 0;
+  width: 33rem;
+}
+
+body {
+  font-size: 24px;
+}
+
+ul {
+  margin-bottom: 4px;
+  width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  li {
+    color: white;
+    padding: 15px 0;
+    width: 25rem;
+  }
+}
